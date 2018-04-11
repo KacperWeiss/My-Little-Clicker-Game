@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KacperWeissHomework1", "KacperWeissHomework1\KacperWeissHomework1.csproj", "{169AB08F-F22B-44E5-B3E4-A9682308D5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{10477B95-A008-4AF6-B362-58D1A7A7F4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169AB08F-F22B-44E5-B3E4-A9682308D5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169AB08F-F22B-44E5-B3E4-A9682308D5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169AB08F-F22B-44E5-B3E4-A9682308D5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169AB08F-F22B-44E5-B3E4-A9682308D5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10477B95-A008-4AF6-B362-58D1A7A7F4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10477B95-A008-4AF6-B362-58D1A7A7F4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10477B95-A008-4AF6-B362-58D1A7A7F4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10477B95-A008-4AF6-B362-58D1A7A7F4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A341C7DB-F9CA-40B8-91AE-E268D54CA4C7}
+	EndGlobalSection
+EndGlobal
